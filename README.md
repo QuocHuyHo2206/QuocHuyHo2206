@@ -3,16 +3,16 @@
 ## 🚀 About Me
 - 🎓 Graduated in Software Engineering from **FPT University**  
 - 🖥️ Passionate **Backend Developer** specializing in **C# ASP.NET** and **Java Spring Boot**  
-- 💡 Always exploring new technologies to enhance performance and scalability  
+- 💡 Experienced in designing scalable microservices architectures  
 
 ## 💼 Professional Interests
-- 🔹 Building robust, scalable backend systems  
-- 🔹 Designing efficient RESTful APIs  
+- 🔹 Building **robust and scalable** backend systems  
+- 🔹 Designing **high-performance microservices** using **.NET 8**  
 - 🔹 Optimizing database performance and server-side logic  
 
 ## 🛠 Tech Stack
 - **Programming Languages:** C#, Java  
 - **Frameworks:** ASP.NET Core, Spring Boot  
-- **Databases:** SQL Server, PostgreSQL, MongoDB  
-- **DevOps & Tools:** Docker, Kubernetes, CI/CD, Git  
-
+- **Microservices & Architecture:** .NET 8, ASP.NET Web API, **Docker, RabbitMQ, MassTransit, gRPC, YARP Gateway**  
+- **Databases & Caching:** SQL Server, Redis  
+- **DevOps & Tools:** AWS, CI/CD, Git  
