@@ -7,6 +7,6 @@
 ## 🛠 Tech Stack
 - **Programming Languages:** C#, Java  
 - **Frameworks:** ASP.NET Core, Spring Boot  
-- **Microservices & Architecture:** .NET 8, ASP.NET Web API, **Docker, RabbitMQ, MassTransit, gRPC, YARP Gateway**  
+- **Microservices & Architecture:** ASP.NET Web API, **Docker, RabbitMQ, MassTransit, gRPC, YARP Gateway**  
 - **Databases & Caching:** SQL Server, Redis, Postgres, MySQL  
 - **DevOps & Tools:** AWS, CI/CD, Git  
