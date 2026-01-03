@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Graduated in Software Engineering from **FPT University**  
 - 🖥️ Passionate **Backend Developer** specializing in **C# ASP.NET** and **Java Spring Boot**
-- 🎓 MSc student in Software Engineering (AI-focused)
+- 🎓 MSc student in Software Engineering (AI-focused) **FPT University**
 - 🤖 Interested in AI, backend systems, and scalable software
 
 
